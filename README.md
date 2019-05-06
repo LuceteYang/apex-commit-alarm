@@ -1,10 +1,12 @@
 # Apex Commit Alarm
 
-application for oneday'scommit count alarm to mail
+Application for oneday's commit count alarm to mail
+
+<img src="./cloudwatch-scheduled-event-triggering-lambda.png"/>
 
 ## Getting Started
 ```zsh
-$ git clone https://github.com/LuceteYang/express-skeleton.git your-project-name
+$ git clone https://github.com/LuceteYang/apex-commit-alarm.git your-project-name
 $ cd your-project-name
 # edit gmail github account project.json role
 $ pip install apex

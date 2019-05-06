@@ -1,0 +1,9 @@
+{
+  "name": "apex-commit-alarm",
+  "description": "application for oneday'scommit count alarm to mail",
+  "memory": 128,
+  "timeout": 5,
+  "role": <aws lambda role>,
+  "environment": {},
+  "region": "ap-northeast-2"
+}

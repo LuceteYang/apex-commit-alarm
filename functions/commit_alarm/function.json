@@ -1,0 +1,8 @@
+{
+    "runtime": "python",
+    "name": "commit-alarm",
+    "region": "ap-northeast-2",
+    "description": "application for oneday'scommit count alarm to mail",
+    "role": "arn:aws:iam::199610536113:role/apex-commit-alarm_lambda_function",
+    "memory": 128
+}

@@ -90,4 +90,6 @@ def handle(event, context):
         send_mail(random.choice(message_list))
     else:
         send_mail('today commit count : %s' % len(today_commit_events))
-    return 'Hello World'
+    return {
+        'message' : 'Hello World'
+    }
